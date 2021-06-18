@@ -24,6 +24,7 @@ In alphabetical order:
 * [HostGator](http://www.hostgator.com)
 * [Hostico](https://hostico.ro)
 * [Hostinger](https://www.hostinger.com)
+* [HostMaria](https://www.hostmaria.com)
 * [HostPresto](https://hostpresto.com)
 * [ICDSoft](https:///www.icdsoft.com)
 * [IONOS by 1&1](https://www.ionos.com/)
